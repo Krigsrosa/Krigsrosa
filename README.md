@@ -1,8 +1,8 @@
 ### Hello there 👋
 ### My name is Krigor
 
-- 🎓 I’m currently studying mechanical engineering at UDESC
-- 🏭 I’m currently working as product engineering intern at Embraco Brasil
+- 🎓 I've a bachelor's degree in mechanical engineering at UDESC/CCT
+- 🏭 I'm currently a master's student in applied computing at LABICOM UDESC/CCT
 
 <div align="center">
   <a href="https://github.com/Krigsrosa">

@@ -1,8 +1,8 @@
 ### Hello there 👋
 ### My name is Krigor
 
-- 🎓 I've a bachelor's degree in mechanical engineering at UDESC/CCT
-- 📚 I'm currently a master's student in applied computing at LABICOM UDESC/CCT
+- 🎓 I've a bachelor's degree in mechanical engineering at UDESC/CCT and a master's degree in applied computing at UDESC/CCT.
+- 🔍 I'm currently working as research and development specialist at ArcelorMittal.
 
 <div align="center">
   <a href="https://github.com/Krigsrosa">
